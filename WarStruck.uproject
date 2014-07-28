@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 0,
+	"VersionName": "0.0",
+	"EngineVersion": "4.2.0-2092659+++depot+UE4-Releases+4.2",
+	"PackageFileUE4Version": 363,
+	"PackageFileLicenseeUE4Version": 0,
+	"EngineAssociation": "4.2",
+	"FriendlyName": "",
+	"Description": "",
+	"Category": "Samples",
+	"CreatedBy": "",
+	"CreatedByURL": "",
+	"Modules": [
+		{
+			"Name": "ShooterGame",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ShooterGameLoadingScreen",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	],
+	"EpicSampleNameHash": "3868556100"
+}
